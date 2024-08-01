@@ -8,17 +8,16 @@ Feel free to take a look at my [resume]() and to connect with me via [LinkedIn](
 
 - 🐍: The programming languages I use are: Python, R, and SQL.
 - ☁️: Cloud Computing Stack: AWS and GCP
-- 📊: Other skills: Power BI, Tableau, QGIS, Computer Vision.
+- 📊: Other skills: Power BI, PySpark, Tableau, QGIS, Computer Vision.
 - 📖 Currently working on: Improving expertise in LLMs and NLP.
 
 Some of the projects I have worked on, among others, are:
 
 - Conducted a comprehensive analysis of climate change impacts using NLP models, computer vision, and dashboards.
-- Developed supervised & unsupervised ML models (in PySpark) to evaluate the impact of transit programs and analyze crime
-patterns.
-- Building NLP-based techniques and models to investigate fake news
+- Developed supervised & unsupervised ML models to evaluate the impact of transit programs and analyze crime patterns.
+- Building NLP-based techniques and models to investigate fake news.
 - Deployed boosted trees ML model (in R) to optimize methane leak inspections at oil & gas facilities.
-- Used OpenCV and QGIS to classify and georeference urban land use images into interactive raster maps to show environmental degradation over time
+- Used OpenCV and QGIS to classify and georeference urban land use images into interactive raster maps to show environmental degradation over time.
 
 You can see some of my work in the following repositories:
 
