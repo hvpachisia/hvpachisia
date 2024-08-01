@@ -13,9 +13,9 @@ Some of the projects I have worked on, among others, are:
 
 - Conducted a comprehensive analysis of climate change impacts using NLP models, computer vision, and dashboards.
 - Developed supervised & unsupervised ML models to evaluate the impact of transit programs and analyze crime patterns.
-- Building NLP-based techniques and models to investigate fake news.
 - Deployed boosted trees ML model (in R) to optimize methane leak inspections at oil & gas facilities.
 - Used OpenCV and QGIS to classify and georeference urban land use images into interactive raster maps to show environmental degradation over time.
+- Built NLP-based techniques and models to investigate fake news.
 
 You can see some of my work in the following repositories:
 
