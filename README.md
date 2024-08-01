@@ -7,7 +7,7 @@ Feel free to take a look at my [resume](https://github.com/hvpachisia/hvpachisia
 - 🐍: The programming languages I use are: Python, R, and SQL.
 - ☁️: Cloud Computing Stack: AWS and GCP
 - 📊: Other skills: Power BI, PySpark, Tableau, QGIS, Computer Vision.
-- 📖 Currently working on: Improving expertise in LLMs and NLP.
+- 📖: Currently working on: Improving expertise in LLMs and NLP.
 
 Some of the projects I have worked on, among others, are:
 
