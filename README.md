@@ -4,7 +4,7 @@ Hi, I’m Harsh. That means ‘happiness’ in Hindi. Thanks for stopping by!
 
 I’m a data scientist and program evaluator with over 6 years of experience in the United States and India. I recently graduated with an MSc in Computer Science and Public Policy (MS-CAPP) at the University of Chicago. I am passionate about applying my technical skills to build & improve products and programs that improve the lives of people. 
 
-Feel free to take a look at my [resume]() and to connect with me via [LinkedIn](https://www.linkedin.com/in/hvpachisia/).
+Feel free to take a look at my [resume](https://github.com/hvpachisia/hvpachisia/blob/004c35f6e0097e21d906db8b7c1d7c6e3920f732/resume/Harsh%20Vardhan%20Pachisia_DSPrivateResume_July%202024.pdf) and to connect with me via [LinkedIn](https://www.linkedin.com/in/hvpachisia/).
 
 - 🐍: The programming languages I use are: Python, R, and SQL.
 - ☁️: Cloud Computing Stack: AWS and GCP
